@@ -23752,503 +23752,6 @@
         }
       },
       {
-        "name": "RFTools Base",
-        "version": "RFToolsBase - 1.18-3.0.6",
-        "optional": true,
-        "file": "rftoolsbase-1.18-3.0.6.jar",
-        "type": "mods",
-        "description": "RFTools Base: base mod for all McJty tech mods",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "curseForgeProjectId": 326041,
-        "curseForgeFileId": 3665829,
-        "curseForgeProject": {
-          "id": 326041,
-          "name": "RFTools Base",
-          "authors": [
-            {
-              "id": 229199,
-              "name": "McJty",
-              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
-            }
-          ],
-          "gameId": 432,
-          "summary": "RFTools Base: base mod for all McJty tech mods",
-          "downloadCount": 13053159,
-          "latestFiles": [
-            {
-              "id": 2746642,
-              "gameId": 432,
-              "isAvailable": true,
-              "displayName": "rftoolsbase-1.14-0.0.2-alpha.jar",
-              "fileName": "rftoolsbase-1.14-0.0.2-alpha.jar",
-              "releaseType": 3,
-              "fileStatus": 4,
-              "fileDate": "2019-07-23T03:33:26.737Z",
-              "fileLength": 69739,
-              "downloadUrl": "https://edge.forgecdn.net/files/2746/642/rftoolsbase-1.14-0.0.2-alpha.jar",
-              "dependencies": [
-                {
-                  "fileId": 2746642,
-                  "modId": 233105,
-                  "relationType": 3
-                },
-                {
-                  "fileId": 2746642,
-                  "modId": 245211,
-                  "relationType": 2
-                }
-              ],
-              "alternateFileId": 0,
-              "modules": [
-                {
-                  "fingerprint": 2194749458,
-                  "name": "META-INF"
-                },
-                {
-                  "fingerprint": 542305286,
-                  "name": "mcjty"
-                },
-                {
-                  "fingerprint": 1977389482,
-                  "name": "assets"
-                },
-                {
-                  "fingerprint": 334750689,
-                  "name": "pack.mcmeta"
-                },
-                {
-                  "fingerprint": 2864270441,
-                  "name": "data"
-                }
-              ],
-              "isServerPack": false,
-              "hashes": [
-                {
-                  "value": "11118d513c8ced08ed242ba8d2657fa17e1f8641",
-                  "algo": 1
-                },
-                {
-                  "value": "6c8b812644e19c7cf8a16a2f3c950511",
-                  "algo": 2
-                }
-              ],
-              "downloadCount": 7976,
-              "sortableGameVersions": [
-                {
-                  "gameVersionPadded": "0000000001.0000000014.0000000004",
-                  "gameVersion": "1.14.4",
-                  "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-                  "gameVersionName": "1.14.4"
-                }
-              ],
-              "gameVersions": [
-                "1.14.4"
-              ],
-              "fileFingerprint": 16668684,
-              "modId": 326041
-            },
-            {
-              "id": 3598201,
-              "gameId": 432,
-              "isAvailable": true,
-              "displayName": "RFToolsBase - 1.16-2.1.2",
-              "fileName": "rftoolsbase-1.16-2.1.2.jar",
-              "releaseType": 1,
-              "fileStatus": 4,
-              "fileDate": "2022-01-08T09:33:56.17Z",
-              "fileLength": 414239,
-              "downloadUrl": "https://edge.forgecdn.net/files/3598/201/rftoolsbase-1.16-2.1.2.jar",
-              "dependencies": [
-                {
-                  "fileId": 3598201,
-                  "modId": 270789,
-                  "relationType": 2
-                },
-                {
-                  "fileId": 3598201,
-                  "modId": 233105,
-                  "relationType": 3
-                },
-                {
-                  "fileId": 3598201,
-                  "modId": 245211,
-                  "relationType": 2
-                }
-              ],
-              "alternateFileId": 0,
-              "modules": [
-                {
-                  "fingerprint": 1483109144,
-                  "name": "META-INF"
-                },
-                {
-                  "fingerprint": 1108005458,
-                  "name": "mcjty"
-                },
-                {
-                  "fingerprint": 423264590,
-                  "name": "assets"
-                },
-                {
-                  "fingerprint": 1170308752,
-                  "name": "data"
-                },
-                {
-                  "fingerprint": 3663424948,
-                  "name": "pack.mcmeta"
-                }
-              ],
-              "isServerPack": false,
-              "hashes": [
-                {
-                  "value": "791bd3a295c6f952d66e43f5d4582dae9bfae8e0",
-                  "algo": 1
-                },
-                {
-                  "value": "a8ea748cc429f79491504141705083f4",
-                  "algo": 2
-                }
-              ],
-              "downloadCount": 91045,
-              "sortableGameVersions": [
-                {
-                  "gameVersionPadded": "0000000001.0000000016.0000000005",
-                  "gameVersion": "1.16.5",
-                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-                  "gameVersionName": "1.16.5"
-                },
-                {
-                  "gameVersionPadded": "0",
-                  "gameVersion": "",
-                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                  "gameVersionName": "Forge"
-                }
-              ],
-              "gameVersions": [
-                "1.16.5",
-                "Forge"
-              ],
-              "fileFingerprint": 2308983707,
-              "modId": 326041
-            },
-            {
-              "id": 3665829,
-              "gameId": 432,
-              "isAvailable": true,
-              "displayName": "RFToolsBase - 1.18-3.0.6",
-              "fileName": "rftoolsbase-1.18-3.0.6.jar",
-              "releaseType": 2,
-              "fileStatus": 4,
-              "fileDate": "2022-02-27T06:15:58.79Z",
-              "fileLength": 410529,
-              "downloadUrl": "https://edge.forgecdn.net/files/3665/829/rftoolsbase-1.18-3.0.6.jar",
-              "dependencies": [
-                {
-                  "fileId": 3665829,
-                  "modId": 245211,
-                  "relationType": 2
-                },
-                {
-                  "fileId": 3665829,
-                  "modId": 270789,
-                  "relationType": 2
-                },
-                {
-                  "fileId": 3665829,
-                  "modId": 233105,
-                  "relationType": 3
-                }
-              ],
-              "alternateFileId": 0,
-              "modules": [
-                {
-                  "fingerprint": 4161691979,
-                  "name": "META-INF"
-                },
-                {
-                  "fingerprint": 2706678239,
-                  "name": "mcjty"
-                },
-                {
-                  "fingerprint": 1826903295,
-                  "name": "assets"
-                },
-                {
-                  "fingerprint": 3580387291,
-                  "name": "data"
-                },
-                {
-                  "fingerprint": 3663424948,
-                  "name": "pack.mcmeta"
-                }
-              ],
-              "isServerPack": false,
-              "hashes": [
-                {
-                  "value": "efe235521c9d082247d425c5d2ed419fcbb53ef1",
-                  "algo": 1
-                },
-                {
-                  "value": "49f04f296ba474abf58154de286bc280",
-                  "algo": 2
-                }
-              ],
-              "downloadCount": 0,
-              "sortableGameVersions": [
-                {
-                  "gameVersionPadded": "0000000001.0000000018.0000000001",
-                  "gameVersion": "1.18.1",
-                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-                  "gameVersionName": "1.18.1"
-                },
-                {
-                  "gameVersionPadded": "0",
-                  "gameVersion": "",
-                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-                  "gameVersionName": "Forge"
-                }
-              ],
-              "gameVersions": [
-                "1.18.1",
-                "Forge"
-              ],
-              "fileFingerprint": 2051067739,
-              "modId": 326041
-            }
-          ],
-          "categories": [
-            {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 417,
-          "slug": "rftools-base",
-          "isFeatured": false,
-          "dateModified": "2022-02-27T08:17:31.287Z",
-          "dateCreated": "2019-07-03T05:29:43.177Z",
-          "dateReleased": "2022-02-27T06:15:58.79Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-base",
-            "issuesUrl": "https://github.com/McJtyMods/RFToolsBase/issues",
-            "sourceUrl": "https://github.com/McJtyMods/RFToolsBase"
-          },
-          "logo": {
-            "id": 208764,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/208/764/256/256/636977285832062651.png",
-            "title": "636977285832062651.png",
-            "url": "https://media.forgecdn.net/avatars/208/764/636977285832062651.png",
-            "modId": 326041,
-            "isDefault": false
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "latestFilesIndexes": [
-            {
-              "gameVersion": "1.18.1",
-              "gameVersionTypeId": 73250,
-              "modLoader": 1,
-              "fileId": 3665829,
-              "filename": "rftoolsbase-1.18-3.0.6.jar",
-              "releaseType": 2
-            },
-            {
-              "gameVersion": "1.16.5",
-              "gameVersionTypeId": 70886,
-              "modLoader": 1,
-              "fileId": 3598201,
-              "filename": "rftoolsbase-1.16-2.1.2.jar",
-              "releaseType": 1
-            },
-            {
-              "gameVersion": "1.16.3",
-              "gameVersionTypeId": 70886,
-              "modLoader": 1,
-              "fileId": 3206945,
-              "filename": "rftoolsbase-1.16-2.0.10.jar",
-              "releaseType": 1
-            },
-            {
-              "gameVersion": "1.16.4",
-              "gameVersionTypeId": 70886,
-              "modLoader": 1,
-              "fileId": 3206945,
-              "filename": "rftoolsbase-1.16-2.0.10.jar",
-              "releaseType": 1
-            },
-            {
-              "gameVersion": "1.15.2",
-              "gameVersionTypeId": 68722,
-              "modLoader": 1,
-              "fileId": 3140146,
-              "filename": "rftoolsbase-1.15-1.1.10.jar",
-              "releaseType": 1
-            },
-            {
-              "gameVersion": "1.16.2",
-              "gameVersionTypeId": 70886,
-              "modLoader": 1,
-              "fileId": 3057532,
-              "filename": "rftoolsbase-1.16-2.0.5.jar",
-              "releaseType": 1
-            },
-            {
-              "gameVersion": "1.16.2",
-              "gameVersionTypeId": 70886,
-              "modLoader": 1,
-              "fileId": 3049313,
-              "filename": "rftoolsbase-1.16-2.0.4-beta.jar",
-              "releaseType": 2
-            },
-            {
-              "gameVersion": "1.15.2",
-              "gameVersionTypeId": 68722,
-              "modLoader": 1,
-              "fileId": 3014087,
-              "filename": "rftoolsbase-1.15-1.1.3-beta.jar",
-              "releaseType": 2
-            },
-            {
-              "gameVersion": "1.14.4",
-              "gameVersionTypeId": 64806,
-              "modLoader": 1,
-              "fileId": 2841449,
-              "filename": "rftoolsbase-1.14-0.0.12-alpha.jar",
-              "releaseType": 2
-            },
-            {
-              "gameVersion": "1.14.4",
-              "gameVersionTypeId": 64806,
-              "modLoader": 0,
-              "fileId": 2746642,
-              "filename": "rftoolsbase-1.14-0.0.2-alpha.jar",
-              "releaseType": 3
-            },
-            {
-              "gameVersion": "1.14.3",
-              "gameVersionTypeId": 64806,
-              "modLoader": 0,
-              "fileId": 2734694,
-              "filename": "rftoolsbase-1.14-0.0.1-alpha.jar",
-              "releaseType": 3
-            }
-          ],
-          "mainFileId": 3598201,
-          "popularityScore": 0.0,
-          "gamePopularityRank": 234,
-          "isAvailable": false,
-          "isExperimental": false
-        },
-        "curseForgeFile": {
-          "id": 3665829,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "RFToolsBase - 1.18-3.0.6",
-          "fileName": "rftoolsbase-1.18-3.0.6.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2022-02-27T06:15:58.79Z",
-          "fileLength": 410529,
-          "downloadUrl": "https://edge.forgecdn.net/files/3665/829/rftoolsbase-1.18-3.0.6.jar",
-          "dependencies": [
-            {
-              "fileId": 3665829,
-              "modId": 245211,
-              "relationType": 2
-            },
-            {
-              "fileId": 3665829,
-              "modId": 270789,
-              "relationType": 2
-            },
-            {
-              "fileId": 3665829,
-              "modId": 233105,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4161691979,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2706678239,
-              "name": "mcjty"
-            },
-            {
-              "fingerprint": 1826903295,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3580387291,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3663424948,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "efe235521c9d082247d425c5d2ed419fcbb53ef1",
-              "algo": 1
-            },
-            {
-              "value": "49f04f296ba474abf58154de286bc280",
-              "algo": 2
-            }
-          ],
-          "downloadCount": 0,
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000001",
-              "gameVersion": "1.18.1",
-              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-              "gameVersionName": "1.18.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.18.1",
-            "Forge"
-          ],
-          "fileFingerprint": 2051067739,
-          "modId": 326041
-        }
-      },
-      {
         "name": "Client Tweaks",
         "version": "clienttweaks-forge-1.18.1-7.1.0.jar",
         "optional": true,
@@ -91729,6 +91232,3216 @@
           ],
           "fileFingerprint": 128958079,
           "modId": 239197
+        }
+      },
+      {
+        "name": "RFTools Power",
+        "version": "RFToolsPower - 1.18-4.0.3",
+        "optional": true,
+        "file": "rftoolspower-1.18-4.0.3.jar",
+        "type": "mods",
+        "description": "RFTools addon for all power generator/storage",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 290209,
+        "curseForgeFileId": 3603474,
+        "curseForgeProject": {
+          "id": 290209,
+          "name": "RFTools Power",
+          "authors": [
+            {
+              "id": 189414,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "RFTools addon for all power generator/storage",
+          "downloadCount": 28496525,
+          "latestFiles": [
+            {
+              "id": 2548823,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "rftoolspower-1.12-0.1.2.jar",
+              "fileName": "rftoolspower-1.12-0.1.2.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2018-04-05T12:23:43.58Z",
+              "fileLength": 148266,
+              "downloadUrl": "https://edge.forgecdn.net/files/2548/823/rftoolspower-1.12-0.1.2.jar",
+              "dependencies": [
+                {
+                  "fileId": 2548823,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2548823,
+                  "modId": 224641,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 892392731,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 3051812463,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 3773348850,
+                  "name": "assets"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "6aac0e5ac395d52c9ae4da3a6504334f76c814e6",
+                  "algo": 1
+                },
+                {
+                  "value": "acc74b937a9604f49dc6800e986248a0",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 4048,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000012.0000000002",
+                  "gameVersion": "1.12.2",
+                  "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                  "gameVersionName": "1.12.2"
+                }
+              ],
+              "gameVersions": [
+                "1.12.2"
+              ],
+              "fileFingerprint": 2518122261,
+              "modId": 290209
+            },
+            {
+              "id": 2704404,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsPower - 1.12-1.2.0",
+              "fileName": "rftoolspower-1.12-1.2.0.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2019-04-27T18:20:57.407Z",
+              "fileLength": 148083,
+              "downloadUrl": "https://edge.forgecdn.net/files/2704/404/rftoolspower-1.12-1.2.0.jar",
+              "dependencies": [
+                {
+                  "fileId": 2704404,
+                  "modId": 224641,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 2704404,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2704404,
+                  "modId": 245211,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 1208999583,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 3829707183,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 3773348850,
+                  "name": "assets"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "5b9d525fdec2100f9e651e55a69a28c2244e8f3c",
+                  "algo": 1
+                },
+                {
+                  "value": "afd405e1ba3857a4bff72c394c3540af",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 8960495,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000012.0000000002",
+                  "gameVersion": "1.12.2",
+                  "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                  "gameVersionName": "1.12.2"
+                }
+              ],
+              "gameVersions": [
+                "1.12.2"
+              ],
+              "fileFingerprint": 2353472270,
+              "modId": 290209
+            },
+            {
+              "id": 2758510,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "rftoolspower-1.14-1.2.3-alpha.jar",
+              "fileName": "rftoolspower-1.14-1.2.3-alpha.jar",
+              "releaseType": 3,
+              "fileStatus": 4,
+              "fileDate": "2019-08-10T04:31:14.887Z",
+              "fileLength": 171251,
+              "downloadUrl": "https://edge.forgecdn.net/files/2758/510/rftoolspower-1.14-1.2.3-alpha.jar",
+              "dependencies": [
+                {
+                  "fileId": 2758510,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2758510,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 2758510,
+                  "modId": 224641,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 2758510,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 1482355662,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 995815341,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 3218991218,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 307592366,
+                  "name": "pack.mcmeta"
+                },
+                {
+                  "fingerprint": 1629361670,
+                  "name": "data"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "6bdf295e4407e3a82f91ed6c90c9ae2a4b5b92fa",
+                  "algo": 1
+                },
+                {
+                  "value": "31cd3aaad75e597364b570691e0412b8",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 73146,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000014.0000000004",
+                  "gameVersion": "1.14.4",
+                  "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+                  "gameVersionName": "1.14.4"
+                }
+              ],
+              "gameVersions": [
+                "1.14.4"
+              ],
+              "fileFingerprint": 4051295455,
+              "modId": 290209
+            },
+            {
+              "id": 3603473,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsPower - 1.16-3.0.13",
+              "fileName": "rftoolspower-1.16-3.0.13.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-01-12T16:13:32.4Z",
+              "fileLength": 558162,
+              "downloadUrl": "https://edge.forgecdn.net/files/3603/473/rftoolspower-1.16-3.0.13.jar",
+              "dependencies": [
+                {
+                  "fileId": 3603473,
+                  "modId": 326041,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3603473,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3603473,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3603473,
+                  "modId": 245211,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2483024329,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 1868015133,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 3926561321,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 1762696681,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 1612267782,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "f0199b7d1393a0535c4d3753ec7e6350fb0680c9",
+                  "algo": 1
+                },
+                {
+                  "value": "420a0875ff335bc2a7b4b1c9cfab1022",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 78814,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 4141139302,
+              "modId": 290209
+            },
+            {
+              "id": 3603474,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsPower - 1.18-4.0.3",
+              "fileName": "rftoolspower-1.18-4.0.3.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-01-12T16:13:58.493Z",
+              "fileLength": 561196,
+              "downloadUrl": "https://edge.forgecdn.net/files/3603/474/rftoolspower-1.18-4.0.3.jar",
+              "dependencies": [
+                {
+                  "fileId": 3603474,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3603474,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3603474,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3603474,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2238417821,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 1795782844,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 1464411820,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 2020331899,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 1612267782,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "d9665ab33d569ad98bf9f7d6e81fa48035db5d4a",
+                  "algo": 1
+                },
+                {
+                  "value": "b095fceaa1cf715a96288b0daa5f6a09",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 146825,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 2003319710,
+              "modId": 290209
+            }
+          ],
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "slug": "rftools-power",
+          "isFeatured": false,
+          "dateModified": "2022-01-12T16:14:34.12Z",
+          "dateCreated": "2018-03-16T07:45:03.613Z",
+          "dateReleased": "2022-01-12T16:13:58.493Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-power",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/McJty/RFToolsPower/issues",
+            "sourceUrl": "https://github.com/McJty/RFToolsPower"
+          },
+          "logo": {
+            "id": 146128,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/146/128/256/256/636567831036587855.png",
+            "title": "636567831036587855.png",
+            "url": "https://media.forgecdn.net/avatars/146/128/636567831036587855.png",
+            "modId": 290209,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3603474,
+              "filename": "rftoolspower-1.18-4.0.3.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3603473,
+              "filename": "rftoolspower-1.16-3.0.13.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3087309,
+              "filename": "rftoolspower-1.16-3.0.8.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3087309,
+              "filename": "rftoolspower-1.16-3.0.8.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3087304,
+              "filename": "rftoolspower-1.15-2.2.6.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057534,
+              "filename": "rftoolspower-1.16-3.0.6.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049316,
+              "filename": "rftoolspower-1.16-3.0.5-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3014091,
+              "filename": "rftoolspower-1.15-2.2.0-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 1,
+              "fileId": 2841453,
+              "filename": "rftoolspower-1.14-1.2.12-alpha.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 0,
+              "fileId": 2758510,
+              "filename": "rftoolspower-1.14-1.2.3-alpha.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.14.3",
+              "gameVersionTypeId": 64806,
+              "modLoader": 0,
+              "fileId": 2734930,
+              "filename": "rftoolspower-1.14-1.2.1-alpha.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.12.2",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2704404,
+              "filename": "rftoolspower-1.12-1.2.0.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.12.2",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2567326,
+              "filename": "rftoolspower-1.12-1.1.0-alpha.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.12.2",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2548823,
+              "filename": "rftoolspower-1.12-0.1.2.jar",
+              "releaseType": 2
+            }
+          ],
+          "mainFileId": 3603473,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 156,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3603474,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsPower - 1.18-4.0.3",
+          "fileName": "rftoolspower-1.18-4.0.3.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-01-12T16:13:58.493Z",
+          "fileLength": 561196,
+          "downloadUrl": "https://edge.forgecdn.net/files/3603/474/rftoolspower-1.18-4.0.3.jar",
+          "dependencies": [
+            {
+              "fileId": 3603474,
+              "modId": 233105,
+              "relationType": 3
+            },
+            {
+              "fileId": 3603474,
+              "modId": 270789,
+              "relationType": 2
+            },
+            {
+              "fileId": 3603474,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3603474,
+              "modId": 326041,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2238417821,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1795782844,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 1464411820,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2020331899,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1612267782,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d9665ab33d569ad98bf9f7d6e81fa48035db5d4a",
+              "algo": 1
+            },
+            {
+              "value": "b095fceaa1cf715a96288b0daa5f6a09",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 146825,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2003319710,
+          "modId": 290209
+        }
+      },
+      {
+        "name": "RFTools Control",
+        "version": "RFToolsControl - 1.18-5.0.1",
+        "optional": true,
+        "file": "rftoolscontrol-1.18-5.0.1.jar",
+        "type": "mods",
+        "description": "Automation and logic computer addon for RFTools",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 250763,
+        "curseForgeFileId": 3603060,
+        "curseForgeProject": {
+          "id": 250763,
+          "name": "RFTools Control",
+          "authors": [
+            {
+              "id": 46258,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Automation and logic computer addon for RFTools",
+          "downloadCount": 43460347,
+          "latestFiles": [
+            {
+              "id": 2443321,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "rftoolsctrl-1.12-1.6.8beta1.jar",
+              "fileName": "rftoolsctrl-1.12-1.6.8beta1.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2017-06-29T15:36:33.537Z",
+              "fileLength": 581597,
+              "downloadUrl": "https://edge.forgecdn.net/files/2443/321/rftoolsctrl-1.12-1.6.8beta1.jar",
+              "dependencies": [
+                {
+                  "fileId": 2443321,
+                  "modId": 224641,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2443321,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2443321,
+                  "modId": 245211,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2464251221,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 2953839545,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 1781302275,
+                  "name": "mcmod.info"
+                },
+                {
+                  "fingerprint": 2096217380,
+                  "name": "pack.mcmeta"
+                },
+                {
+                  "fingerprint": 1039529536,
+                  "name": "assets"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "7e5d720cfb30547099e348720fc2e3caaf0964b0",
+                  "algo": 1
+                },
+                {
+                  "value": "66d68524917249f49d2e8f85ff74c859",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 24266,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000012",
+                  "gameVersion": "1.12",
+                  "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+                  "gameVersionName": "1.12"
+                }
+              ],
+              "gameVersions": [
+                "1.12"
+              ],
+              "fileFingerprint": 1534303665,
+              "modId": 250763
+            },
+            {
+              "id": 2567296,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsControl - 1.12-1.9.0-alpha",
+              "fileName": "rftoolsctrl-1.12-1.9.0-alpha.jar",
+              "releaseType": 3,
+              "fileStatus": 4,
+              "fileDate": "2018-05-29T18:08:12.393Z",
+              "fileLength": 590743,
+              "downloadUrl": "https://edge.forgecdn.net/files/2567/296/rftoolsctrl-1.12-1.9.0-alpha.jar",
+              "dependencies": [
+                {
+                  "fileId": 2567296,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 2567296,
+                  "modId": 224641,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2567296,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2567296,
+                  "modId": 270789,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 3298717741,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 394109754,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 1662206833,
+                  "name": "mcmod.info"
+                },
+                {
+                  "fingerprint": 1984565353,
+                  "name": "pack.mcmeta"
+                },
+                {
+                  "fingerprint": 1352878465,
+                  "name": "assets"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "3348eabf2cb09d44a9b74c9c100a5b7249997dd9",
+                  "algo": 1
+                },
+                {
+                  "value": "446e7762d22bb1acd15665692e87e859",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 13680,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000012.0000000002",
+                  "gameVersion": "1.12.2",
+                  "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                  "gameVersionName": "1.12.2"
+                }
+              ],
+              "gameVersions": [
+                "1.12.2"
+              ],
+              "fileFingerprint": 2821236720,
+              "modId": 250763
+            },
+            {
+              "id": 2705813,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsControl - 1.12-2.0.2",
+              "fileName": "rftoolsctrl-1.12-2.0.2.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2019-05-01T04:37:55.937Z",
+              "fileLength": 600728,
+              "downloadUrl": "https://edge.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar",
+              "dependencies": [
+                {
+                  "fileId": 2705813,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2705813,
+                  "modId": 224641,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2705813,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 2705813,
+                  "modId": 270789,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 1357189213,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 4154545413,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 2695639641,
+                  "name": "mcmod.info"
+                },
+                {
+                  "fingerprint": 1984565353,
+                  "name": "pack.mcmeta"
+                },
+                {
+                  "fingerprint": 1484899670,
+                  "name": "assets"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "1f69d5554351998c9df8a8bbc6ac139c4f6a10da",
+                  "algo": 1
+                },
+                {
+                  "value": "640e2b3241acde04684bd904829959ad",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 11489032,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000012.0000000002",
+                  "gameVersion": "1.12.2",
+                  "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+                  "gameVersionName": "1.12.2"
+                }
+              ],
+              "gameVersions": [
+                "1.12.2"
+              ],
+              "fileFingerprint": 1940565279,
+              "modId": 250763
+            },
+            {
+              "id": 3598212,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsControl - 1.16-4.0.14",
+              "fileName": "rftoolscontrol-1.16-4.0.14.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-01-08T09:38:13.03Z",
+              "fileLength": 593203,
+              "downloadUrl": "https://edge.forgecdn.net/files/3598/212/rftoolscontrol-1.16-4.0.14.jar",
+              "dependencies": [
+                {
+                  "fileId": 3598212,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3598212,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3598212,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3598212,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 3397826938,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 2845052043,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 991368121,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 586754434,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 2138234017,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "eb483e9567d7c2e4a376b765cafbb156dc63248d",
+                  "algo": 1
+                },
+                {
+                  "value": "b2223da4e60ca6b45557ea64fe36823a",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 46571,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 1664052954,
+              "modId": 250763
+            },
+            {
+              "id": 3603060,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsControl - 1.18-5.0.1",
+              "fileName": "rftoolscontrol-1.18-5.0.1.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-01-12T05:58:12.15Z",
+              "fileLength": 596612,
+              "downloadUrl": "https://edge.forgecdn.net/files/3603/60/rftoolscontrol-1.18-5.0.1.jar",
+              "dependencies": [
+                {
+                  "fileId": 3603060,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3603060,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3603060,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3603060,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2443297532,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 2562430831,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 991368121,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 1070428411,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 2138234017,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "1d255580078887e92132108104160966628685d5",
+                  "algo": 1
+                },
+                {
+                  "value": "03b35f220bc4a08bab903acdfa17beb3",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 103266,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 3414336264,
+              "modId": 250763
+            }
+          ],
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "slug": "rftools-control",
+          "isFeatured": false,
+          "dateModified": "2022-01-12T06:02:54.023Z",
+          "dateCreated": "2016-09-06T18:21:11.823Z",
+          "dateReleased": "2022-01-12T05:58:12.15Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-control",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/McJty/RFToolsControl/issues"
+          },
+          "logo": {
+            "id": 50211,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/50/211/256/256/636087648718872179.png",
+            "title": "636087648718872179.png",
+            "url": "https://media.forgecdn.net/avatars/50/211/636087648718872179.png",
+            "modId": 250763,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3603060,
+              "filename": "rftoolscontrol-1.18-5.0.1.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3598212,
+              "filename": "rftoolscontrol-1.16-4.0.14.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3194359,
+              "filename": "rftoolscontrol-1.16-4.0.7.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3194359,
+              "filename": "rftoolscontrol-1.16-4.0.7.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3096836,
+              "filename": "rftoolscontrol-1.15-3.0.9.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057537,
+              "filename": "rftoolscontrol-1.16-4.0.5.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049320,
+              "filename": "rftoolscontrol-1.16-4.0.4-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3014092,
+              "filename": "rftoolscontrol-1.15-3.0.4-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.12.2",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2705813,
+              "filename": "rftoolsctrl-1.12-2.0.2.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.12.2",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2567296,
+              "filename": "rftoolsctrl-1.12-1.9.0-alpha.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.12.1",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2503244,
+              "filename": "rftoolsctrl-1.12-1.7.0.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.10.2",
+              "gameVersionTypeId": 572,
+              "modLoader": 0,
+              "fileId": 2503243,
+              "filename": "rftoolsctrl-1.1x-1.7.0.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.11.2",
+              "gameVersionTypeId": 599,
+              "modLoader": 0,
+              "fileId": 2503243,
+              "filename": "rftoolsctrl-1.1x-1.7.0.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.12",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2451161,
+              "filename": "rftoolsctrl-1.12-1.6.8.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.12",
+              "gameVersionTypeId": 628,
+              "modLoader": 0,
+              "fileId": 2443321,
+              "filename": "rftoolsctrl-1.12-1.6.8beta1.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.11",
+              "gameVersionTypeId": 599,
+              "modLoader": 0,
+              "fileId": 2379523,
+              "filename": "rftoolsctrl-1.1x-1.6.6.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.10.2",
+              "gameVersionTypeId": 572,
+              "modLoader": 0,
+              "fileId": 2351207,
+              "filename": "rftoolsctrl-1.11-1.5.2beta1.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.11",
+              "gameVersionTypeId": 599,
+              "modLoader": 0,
+              "fileId": 2351207,
+              "filename": "rftoolsctrl-1.11-1.5.2beta1.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.10.2",
+              "gameVersionTypeId": 572,
+              "modLoader": 0,
+              "fileId": 2350550,
+              "filename": "rftoolsctrl-1.11-1.5.2alpha2.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.11",
+              "gameVersionTypeId": 599,
+              "modLoader": 0,
+              "fileId": 2350550,
+              "filename": "rftoolsctrl-1.11-1.5.2alpha2.jar",
+              "releaseType": 3
+            }
+          ],
+          "mainFileId": 3598212,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 219,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3603060,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsControl - 1.18-5.0.1",
+          "fileName": "rftoolscontrol-1.18-5.0.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-01-12T05:58:12.15Z",
+          "fileLength": 596612,
+          "downloadUrl": "https://edge.forgecdn.net/files/3603/60/rftoolscontrol-1.18-5.0.1.jar",
+          "dependencies": [
+            {
+              "fileId": 3603060,
+              "modId": 233105,
+              "relationType": 3
+            },
+            {
+              "fileId": 3603060,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3603060,
+              "modId": 270789,
+              "relationType": 2
+            },
+            {
+              "fileId": 3603060,
+              "modId": 326041,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2443297532,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2562430831,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 991368121,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1070428411,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2138234017,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1d255580078887e92132108104160966628685d5",
+              "algo": 1
+            },
+            {
+              "value": "03b35f220bc4a08bab903acdfa17beb3",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 103266,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3414336264,
+          "modId": 250763
+        }
+      },
+      {
+        "name": "RFTools Base",
+        "version": "RFToolsBase - 1.18-3.0.6",
+        "optional": true,
+        "file": "rftoolsbase-1.18-3.0.6.jar",
+        "type": "mods",
+        "description": "RFTools Base: base mod for all McJty tech mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 326041,
+        "curseForgeFileId": 3665829,
+        "curseForgeProject": {
+          "id": 326041,
+          "name": "RFTools Base",
+          "authors": [
+            {
+              "id": 229199,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "RFTools Base: base mod for all McJty tech mods",
+          "downloadCount": 13053602,
+          "latestFiles": [
+            {
+              "id": 2746642,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "rftoolsbase-1.14-0.0.2-alpha.jar",
+              "fileName": "rftoolsbase-1.14-0.0.2-alpha.jar",
+              "releaseType": 3,
+              "fileStatus": 4,
+              "fileDate": "2019-07-23T03:33:26.737Z",
+              "fileLength": 69739,
+              "downloadUrl": "https://edge.forgecdn.net/files/2746/642/rftoolsbase-1.14-0.0.2-alpha.jar",
+              "dependencies": [
+                {
+                  "fileId": 2746642,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 2746642,
+                  "modId": 245211,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2194749458,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 542305286,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 1977389482,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 334750689,
+                  "name": "pack.mcmeta"
+                },
+                {
+                  "fingerprint": 2864270441,
+                  "name": "data"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "11118d513c8ced08ed242ba8d2657fa17e1f8641",
+                  "algo": 1
+                },
+                {
+                  "value": "6c8b812644e19c7cf8a16a2f3c950511",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 7976,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000014.0000000004",
+                  "gameVersion": "1.14.4",
+                  "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+                  "gameVersionName": "1.14.4"
+                }
+              ],
+              "gameVersions": [
+                "1.14.4"
+              ],
+              "fileFingerprint": 16668684,
+              "modId": 326041
+            },
+            {
+              "id": 3598201,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsBase - 1.16-2.1.2",
+              "fileName": "rftoolsbase-1.16-2.1.2.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-01-08T09:33:56.17Z",
+              "fileLength": 414239,
+              "downloadUrl": "https://edge.forgecdn.net/files/3598/201/rftoolsbase-1.16-2.1.2.jar",
+              "dependencies": [
+                {
+                  "fileId": 3598201,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3598201,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3598201,
+                  "modId": 245211,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 1483109144,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 1108005458,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 423264590,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 1170308752,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 3663424948,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "791bd3a295c6f952d66e43f5d4582dae9bfae8e0",
+                  "algo": 1
+                },
+                {
+                  "value": "a8ea748cc429f79491504141705083f4",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 91045,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 2308983707,
+              "modId": 326041
+            },
+            {
+              "id": 3665829,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsBase - 1.18-3.0.6",
+              "fileName": "rftoolsbase-1.18-3.0.6.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:15:58.79Z",
+              "fileLength": 410529,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/829/rftoolsbase-1.18-3.0.6.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665829,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665829,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665829,
+                  "modId": 233105,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 4161691979,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 2706678239,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 1826903295,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 3580387291,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 3663424948,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "efe235521c9d082247d425c5d2ed419fcbb53ef1",
+                  "algo": 1
+                },
+                {
+                  "value": "49f04f296ba474abf58154de286bc280",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 2051067739,
+              "modId": 326041
+            }
+          ],
+          "categories": [
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 417,
+          "slug": "rftools-base",
+          "isFeatured": false,
+          "dateModified": "2022-02-27T08:17:31.287Z",
+          "dateCreated": "2019-07-03T05:29:43.177Z",
+          "dateReleased": "2022-02-27T06:15:58.79Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-base",
+            "issuesUrl": "https://github.com/McJtyMods/RFToolsBase/issues",
+            "sourceUrl": "https://github.com/McJtyMods/RFToolsBase"
+          },
+          "logo": {
+            "id": 208764,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/208/764/256/256/636977285832062651.png",
+            "title": "636977285832062651.png",
+            "url": "https://media.forgecdn.net/avatars/208/764/636977285832062651.png",
+            "modId": 326041,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3665829,
+              "filename": "rftoolsbase-1.18-3.0.6.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3598201,
+              "filename": "rftoolsbase-1.16-2.1.2.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3206945,
+              "filename": "rftoolsbase-1.16-2.0.10.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3206945,
+              "filename": "rftoolsbase-1.16-2.0.10.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3140146,
+              "filename": "rftoolsbase-1.15-1.1.10.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057532,
+              "filename": "rftoolsbase-1.16-2.0.5.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049313,
+              "filename": "rftoolsbase-1.16-2.0.4-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3014087,
+              "filename": "rftoolsbase-1.15-1.1.3-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 1,
+              "fileId": 2841449,
+              "filename": "rftoolsbase-1.14-0.0.12-alpha.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 0,
+              "fileId": 2746642,
+              "filename": "rftoolsbase-1.14-0.0.2-alpha.jar",
+              "releaseType": 3
+            },
+            {
+              "gameVersion": "1.14.3",
+              "gameVersionTypeId": 64806,
+              "modLoader": 0,
+              "fileId": 2734694,
+              "filename": "rftoolsbase-1.14-0.0.1-alpha.jar",
+              "releaseType": 3
+            }
+          ],
+          "mainFileId": 3598201,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 234,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3665829,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsBase - 1.18-3.0.6",
+          "fileName": "rftoolsbase-1.18-3.0.6.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-02-27T06:15:58.79Z",
+          "fileLength": 410529,
+          "downloadUrl": "https://edge.forgecdn.net/files/3665/829/rftoolsbase-1.18-3.0.6.jar",
+          "dependencies": [
+            {
+              "fileId": 3665829,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3665829,
+              "modId": 270789,
+              "relationType": 2
+            },
+            {
+              "fileId": 3665829,
+              "modId": 233105,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4161691979,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2706678239,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 1826903295,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3580387291,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3663424948,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "efe235521c9d082247d425c5d2ed419fcbb53ef1",
+              "algo": 1
+            },
+            {
+              "value": "49f04f296ba474abf58154de286bc280",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 0,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2051067739,
+          "modId": 326041
+        }
+      },
+      {
+        "name": "RFTools Builder",
+        "version": "RFToolsBuilder - 1.18-4.0.7",
+        "optional": true,
+        "file": "rftoolsbuilder-1.18-4.0.7.jar",
+        "type": "mods",
+        "description": "RFTools addon mod adding the builder, shield system and much more",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 347706,
+        "curseForgeFileId": 3665833,
+        "curseForgeProject": {
+          "id": 347706,
+          "name": "RFTools Builder",
+          "authors": [
+            {
+              "id": 252011,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "RFTools addon mod adding the builder, shield system and much more",
+          "downloadCount": 12520040,
+          "latestFiles": [
+            {
+              "id": 3665833,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsBuilder - 1.18-4.0.7",
+              "fileName": "rftoolsbuilder-1.18-4.0.7.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:18:35.293Z",
+              "fileLength": 594803,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/833/rftoolsbuilder-1.18-4.0.7.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665833,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665833,
+                  "modId": 326041,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665833,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665833,
+                  "modId": 270789,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 768284949,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 462238638,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 974875630,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 660010811,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 1047313438,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "5bab707577f3460e3153661d9f23bb91b6c2a05d",
+                  "algo": 1
+                },
+                {
+                  "value": "85beae19b70a02a89e90860eb6bbe92c",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 2730159623,
+              "modId": 347706
+            },
+            {
+              "id": 3665834,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsBuilder - 1.16-3.1.7",
+              "fileName": "rftoolsbuilder-1.16-3.1.7.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:19:16.253Z",
+              "fileLength": 538088,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/834/rftoolsbuilder-1.16-3.1.7.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665834,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665834,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665834,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665834,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2607033419,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 431132649,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 660450008,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 2469026570,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 1047313438,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "e9f24b948675a3ed15332f74818528de3b70624b",
+                  "algo": 1
+                },
+                {
+                  "value": "af53e5be7e46850cbf8bf479ce9dff17",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 1305447599,
+              "modId": 347706
+            }
+          ],
+          "categories": [
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "slug": "rftools-builder",
+          "isFeatured": false,
+          "dateModified": "2022-02-27T08:18:21.65Z",
+          "dateCreated": "2019-10-13T05:34:03.293Z",
+          "dateReleased": "2022-02-27T06:19:16.253Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-builder"
+          },
+          "logo": {
+            "id": 232232,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/232/232/256/256/637065416433264243.png",
+            "title": "637065416433264243.png",
+            "url": "https://media.forgecdn.net/avatars/232/232/637065416433264243.png",
+            "modId": 347706,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3665834,
+              "filename": "rftoolsbuilder-1.16-3.1.7.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3665833,
+              "filename": "rftoolsbuilder-1.18-4.0.7.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3140151,
+              "filename": "rftoolsbuilder-1.16-3.0.13.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3140151,
+              "filename": "rftoolsbuilder-1.16-3.0.13.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3140149,
+              "filename": "rftoolsbuilder-1.15-2.1.16.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057535,
+              "filename": "rftoolsbuilder-1.16-3.0.5.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049317,
+              "filename": "rftoolsbuilder-1.16-3.0.4-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3014089,
+              "filename": "rftoolsbuilder-1.15-2.1.5-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 1,
+              "fileId": 2843741,
+              "filename": "rftoolsbuilder-1.14-1.2.12-alpha.jar",
+              "releaseType": 2
+            }
+          ],
+          "mainFileId": 3665834,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 256,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3665833,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsBuilder - 1.18-4.0.7",
+          "fileName": "rftoolsbuilder-1.18-4.0.7.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-02-27T06:18:35.293Z",
+          "fileLength": 594803,
+          "downloadUrl": "https://edge.forgecdn.net/files/3665/833/rftoolsbuilder-1.18-4.0.7.jar",
+          "dependencies": [
+            {
+              "fileId": 3665833,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3665833,
+              "modId": 326041,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665833,
+              "modId": 233105,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665833,
+              "modId": 270789,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 768284949,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 462238638,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 974875630,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 660010811,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1047313438,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "5bab707577f3460e3153661d9f23bb91b6c2a05d",
+              "algo": 1
+            },
+            {
+              "value": "85beae19b70a02a89e90860eb6bbe92c",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 0,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2730159623,
+          "modId": 347706
+        }
+      },
+      {
+        "name": "RFTools Utility",
+        "version": "RFToolsUtility - 1.18-4.0.10",
+        "optional": true,
+        "file": "rftoolsutility-1.18-4.0.10.jar",
+        "type": "mods",
+        "description": "General RFTools blocks that don't fit in a more specific category",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 342466,
+        "curseForgeFileId": 3665830,
+        "curseForgeProject": {
+          "id": 342466,
+          "name": "RFTools Utility",
+          "authors": [
+            {
+              "id": 246497,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "General RFTools blocks that don't fit in a more specific category",
+          "downloadCount": 11874775,
+          "latestFiles": [
+            {
+              "id": 3665830,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsUtility - 1.18-4.0.10",
+              "fileName": "rftoolsutility-1.18-4.0.10.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:16:39.64Z",
+              "fileLength": 1607252,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/830/rftoolsutility-1.18-4.0.10.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665830,
+                  "modId": 326041,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665830,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665830,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665830,
+                  "modId": 270789,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 41099426,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 1668441577,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 3126862264,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 3282835040,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 2052052530,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "470d23802f2eb5f1931e36a74676c1345142f24f",
+                  "algo": 1
+                },
+                {
+                  "value": "a45f3aee07d155839f1abcd8ec468563",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 2737426145,
+              "modId": 342466
+            },
+            {
+              "id": 3665832,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsUtility - 1.16-3.1.11",
+              "fileName": "rftoolsutility-1.16-3.1.11.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:17:37.343Z",
+              "fileLength": 1596186,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/832/rftoolsutility-1.16-3.1.11.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665832,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665832,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665832,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665832,
+                  "modId": 326041,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 3153910784,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 734209921,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 2155141803,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 2435529953,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 2052052530,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "2b3346593c974f34e8d137f411ba9de4e27cb164",
+                  "algo": 1
+                },
+                {
+                  "value": "165ac46612a85312f84f6072424d2039",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 2687158498,
+              "modId": 342466
+            }
+          ],
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "slug": "rftools-utility",
+          "isFeatured": false,
+          "dateModified": "2022-02-27T08:18:12.847Z",
+          "dateCreated": "2019-09-21T06:30:26.6Z",
+          "dateReleased": "2022-02-27T06:17:37.343Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-utility",
+            "issuesUrl": "https://github.com/McJtyMods/RFToolsUtility/issues"
+          },
+          "logo": {
+            "id": 226627,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/226/627/256/256/637046442266325930.png",
+            "title": "637046442266325930.png",
+            "url": "https://media.forgecdn.net/avatars/226/627/637046442266325930.png",
+            "modId": 342466,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3665832,
+              "filename": "rftoolsutility-1.16-3.1.11.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3665830,
+              "filename": "rftoolsutility-1.18-4.0.10.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3204848,
+              "filename": "rftoolsutility-1.16-3.0.22.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3204848,
+              "filename": "rftoolsutility-1.16-3.0.22.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3152946,
+              "filename": "rftoolsutility-1.15-2.1.20.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057533,
+              "filename": "rftoolsutility-1.16-3.0.8.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049315,
+              "filename": "rftoolsutility-1.16-3.0.7-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3043254,
+              "filename": "rftoolsutility-1.15-2.1.9.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 1,
+              "fileId": 2852207,
+              "filename": "rftoolsutility-1.14-1.2.14-alpha.jar",
+              "releaseType": 2
+            }
+          ],
+          "mainFileId": 3665832,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 291,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3665830,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsUtility - 1.18-4.0.10",
+          "fileName": "rftoolsutility-1.18-4.0.10.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-02-27T06:16:39.64Z",
+          "fileLength": 1607252,
+          "downloadUrl": "https://edge.forgecdn.net/files/3665/830/rftoolsutility-1.18-4.0.10.jar",
+          "dependencies": [
+            {
+              "fileId": 3665830,
+              "modId": 326041,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665830,
+              "modId": 233105,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665830,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3665830,
+              "modId": 270789,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 41099426,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1668441577,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 3126862264,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3282835040,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2052052530,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "470d23802f2eb5f1931e36a74676c1345142f24f",
+              "algo": 1
+            },
+            {
+              "value": "a45f3aee07d155839f1abcd8ec468563",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 0,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2737426145,
+          "modId": 342466
+        }
+      },
+      {
+        "name": "RFTools Storage",
+        "version": "RFToolsStorage - 1.18-3.0.6",
+        "optional": true,
+        "file": "rftoolsstorage-1.18-3.0.6.jar",
+        "type": "mods",
+        "description": "RFTools Storage addon",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "curseForgeProjectId": 350006,
+        "curseForgeFileId": 3665835,
+        "curseForgeProject": {
+          "id": 350006,
+          "name": "RFTools Storage",
+          "authors": [
+            {
+              "id": 254540,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/12351286-mcjty?username=mcjty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "RFTools Storage addon",
+          "downloadCount": 11106869,
+          "latestFiles": [
+            {
+              "id": 3665835,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsStorage - 1.18-3.0.6",
+              "fileName": "rftoolsstorage-1.18-3.0.6.jar",
+              "releaseType": 2,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:20:07.383Z",
+              "fileLength": 367351,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/835/rftoolsstorage-1.18-3.0.6.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665835,
+                  "modId": 326041,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665835,
+                  "modId": 233105,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665835,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665835,
+                  "modId": 270789,
+                  "relationType": 2
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 2556574286,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 872687597,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 73430381,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 2529805299,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 326947708,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "d0fbb9d9337c80e1158beb7ea2e9f348e3bca069",
+                  "algo": 1
+                },
+                {
+                  "value": "0eebfcb716fe970b6c736f4387d91e2b",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000018.0000000001",
+                  "gameVersion": "1.18.1",
+                  "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+                  "gameVersionName": "1.18.1"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.18.1",
+                "Forge"
+              ],
+              "fileFingerprint": 2758181603,
+              "modId": 350006
+            },
+            {
+              "id": 3665836,
+              "gameId": 432,
+              "isAvailable": true,
+              "displayName": "RFToolsStorage - 1.16-2.0.18",
+              "fileName": "rftoolsstorage-1.16-2.0.18.jar",
+              "releaseType": 1,
+              "fileStatus": 4,
+              "fileDate": "2022-02-27T06:20:29.387Z",
+              "fileLength": 364963,
+              "downloadUrl": "https://edge.forgecdn.net/files/3665/836/rftoolsstorage-1.16-2.0.18.jar",
+              "dependencies": [
+                {
+                  "fileId": 3665836,
+                  "modId": 270789,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665836,
+                  "modId": 326041,
+                  "relationType": 3
+                },
+                {
+                  "fileId": 3665836,
+                  "modId": 245211,
+                  "relationType": 2
+                },
+                {
+                  "fileId": 3665836,
+                  "modId": 233105,
+                  "relationType": 3
+                }
+              ],
+              "alternateFileId": 0,
+              "modules": [
+                {
+                  "fingerprint": 851352438,
+                  "name": "META-INF"
+                },
+                {
+                  "fingerprint": 3613934304,
+                  "name": "mcjty"
+                },
+                {
+                  "fingerprint": 73430381,
+                  "name": "assets"
+                },
+                {
+                  "fingerprint": 3473661348,
+                  "name": "data"
+                },
+                {
+                  "fingerprint": 326947708,
+                  "name": "pack.mcmeta"
+                }
+              ],
+              "isServerPack": false,
+              "hashes": [
+                {
+                  "value": "e07784299e147c1612d62c60177fe10a68ee3b9f",
+                  "algo": 1
+                },
+                {
+                  "value": "00d3147aae12a1ffd8b52367cda550e9",
+                  "algo": 2
+                }
+              ],
+              "downloadCount": 0,
+              "sortableGameVersions": [
+                {
+                  "gameVersionPadded": "0000000001.0000000016.0000000005",
+                  "gameVersion": "1.16.5",
+                  "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+                  "gameVersionName": "1.16.5"
+                },
+                {
+                  "gameVersionPadded": "0",
+                  "gameVersion": "",
+                  "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                  "gameVersionName": "Forge"
+                }
+              ],
+              "gameVersions": [
+                "1.16.5",
+                "Forge"
+              ],
+              "fileFingerprint": 3333656488,
+              "modId": 350006
+            }
+          ],
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 420,
+          "slug": "rftools-storage",
+          "isFeatured": false,
+          "dateModified": "2022-02-27T08:18:27.747Z",
+          "dateCreated": "2019-11-01T05:13:37.26Z",
+          "dateReleased": "2022-02-27T06:20:29.387Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rftools-storage",
+            "issuesUrl": "https://github.com/McJtyMods/RFToolsStorage/issues"
+          },
+          "logo": {
+            "id": 234854,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/234/854/256/256/637081820172921297.png",
+            "title": "637081820172921297.png",
+            "url": "https://media.forgecdn.net/avatars/234/854/637081820172921297.png",
+            "modId": 350006,
+            "isDefault": false
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "latestFilesIndexes": [
+            {
+              "gameVersion": "1.16.5",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3665836,
+              "filename": "rftoolsstorage-1.16-2.0.18.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.18.1",
+              "gameVersionTypeId": 73250,
+              "modLoader": 1,
+              "fileId": 3665835,
+              "filename": "rftoolsstorage-1.18-3.0.6.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.16.3",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3204853,
+              "filename": "rftoolsstorage-1.16-2.0.10.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.4",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3204853,
+              "filename": "rftoolsstorage-1.16-2.0.10.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3142802,
+              "filename": "rftoolsstorage-1.15-1.1.13.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3057536,
+              "filename": "rftoolsstorage-1.16-2.0.5.jar",
+              "releaseType": 1
+            },
+            {
+              "gameVersion": "1.16.2",
+              "gameVersionTypeId": 70886,
+              "modLoader": 1,
+              "fileId": 3049319,
+              "filename": "rftoolsstorage-1.16-2.0.4-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.15.2",
+              "gameVersionTypeId": 68722,
+              "modLoader": 1,
+              "fileId": 3014090,
+              "filename": "rftoolsstorage-1.15-1.1.6-beta.jar",
+              "releaseType": 2
+            },
+            {
+              "gameVersion": "1.14.4",
+              "gameVersionTypeId": 64806,
+              "modLoader": 1,
+              "fileId": 2841454,
+              "filename": "rftoolsstorage-1.14-0.0.7-alpha.jar",
+              "releaseType": 2
+            }
+          ],
+          "mainFileId": 3665836,
+          "popularityScore": 0.0,
+          "gamePopularityRank": 334,
+          "isAvailable": false,
+          "isExperimental": false
+        },
+        "curseForgeFile": {
+          "id": 3665835,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RFToolsStorage - 1.18-3.0.6",
+          "fileName": "rftoolsstorage-1.18-3.0.6.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-02-27T06:20:07.383Z",
+          "fileLength": 367351,
+          "downloadUrl": "https://edge.forgecdn.net/files/3665/835/rftoolsstorage-1.18-3.0.6.jar",
+          "dependencies": [
+            {
+              "fileId": 3665835,
+              "modId": 326041,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665835,
+              "modId": 233105,
+              "relationType": 3
+            },
+            {
+              "fileId": 3665835,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 3665835,
+              "modId": 270789,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2556574286,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 872687597,
+              "name": "mcjty"
+            },
+            {
+              "fingerprint": 73430381,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2529805299,
+              "name": "data"
+            },
+            {
+              "fingerprint": 326947708,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d0fbb9d9337c80e1158beb7ea2e9f348e3bca069",
+              "algo": 1
+            },
+            {
+              "value": "0eebfcb716fe970b6c736f4387d91e2b",
+              "algo": 2
+            }
+          ],
+          "downloadCount": 0,
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2758181603,
+          "modId": 350006
         }
       }
     ],
