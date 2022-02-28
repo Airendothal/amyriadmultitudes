@@ -1,0 +1,121 @@
+
+[General]
+	#How many Flat Lamps should be bound to one Linking Card?
+	#Range: 1 ~ 256
+	linking_tool_max_bounds = 32
+	#Which Color of Particls Should be spawned [0 = Red | 1 = Purple | 2 = White Star]
+	#Range: 0 ~ 2
+	linking_tool_particle_color = 0
+
+[World]
+
+	[World.garat]
+		#Amount of garat blocks generated per vein (source)
+		#Range: 1 ~ 64
+		garat_blocks_per_vein = 32
+		#Should garat blocks be generated
+		generate_garat_sources = true
+		#Amount of max garat sources generated per chunk
+		#Range: 1 ~ 64
+		garat_sources_per_chunk = 2
+
+	[World.bimstone]
+		#Amount of bimstone blocks generated per vein (source)
+		#Range: 1 ~ 64
+		bimstone_blocks_per_vein = 32
+		#Amount of max bimstone sources generated per chunk
+		#Range: 1 ~ 64
+		bimstone_sources_per_chunk = 2
+		#Should bimstone blocks be generated
+		generate_bimstone_sources = true
+
+	[World.limestone]
+		#Amount of limestone blocks generated per vein (source)
+		#Range: 1 ~ 64
+		limestone_blocks_per_vein = 40
+		#Amount of max limestone sources generated per chunk
+		#Range: 1 ~ 64
+		limestone_sources_per_chunk = 2
+		#Should limestone blocks be generated
+		generate_limestone_sources = true
+
+	[World.anorthosite]
+		#Should anorthosite blocks be generated
+		generate_anorthosite_sources = true
+		#Amount of anorthosite blocks generated per vein (source)
+		#Range: 1 ~ 64
+		anorthosite_blocks_per_vein = 32
+		#Amount of max anorthosite sources generated per chunk
+		#Range: 1 ~ 64
+		anorthosite_sources_per_chunk = 2
+
+	[World."white gabbro"]
+		#Amount of max white gabbro sources generated per chunk
+		#Range: 1 ~ 64
+		white_gabbro_sources_per_chunk = 2
+		#Should white gabbro blocks be generated
+		generate_white_gabbro_sources = true
+		#Amount of white gabbro blocks generated per vein (source)
+		#Range: 1 ~ 64
+		white_gabbro_blocks_per_vein = 32
+
+	[World.gneiss]
+		#Amount of gneiss blocks generated per vein (source)
+		#Range: 1 ~ 64
+		gneiss_blocks_per_vein = 32
+		#Amount of max gneiss sources generated per chunk
+		#Range: 1 ~ 64
+		gneiss_sources_per_chunk = 2
+		#Should gneiss blocks be generated
+		generate_gneiss_sources = true
+
+	[World.nepheline_syenite]
+		#Amount of max nepheline syenite sources generated per chunk
+		#Range: 1 ~ 64
+		nepheline_syenite_sources_per_chunk = 2
+		#Amount of nepheline syenite blocks generated per vein (source)
+		#Range: 1 ~ 64
+		nepheline_syenite_blocks_per_vein = 32
+		#Should nepheline syenite blocks be generated
+		generate_nepheline_syenite_sources = true
+
+	[World.slate]
+		#Amount of max slate sources generated per chunk
+		#Range: 1 ~ 64
+		slate_sources_per_chunk = 2
+		#Amount of slate blocks generated per vein (source)
+		#Range: 1 ~ 64
+		slate_blocks_per_vein = 32
+		#Should slate blocks be generated
+		generate_slate_sources = true
+
+	[World.aragonit]
+		#Amount of aragonit blocks generated per vein (source)
+		#Range: 2 ~ 64
+		aragonit_blocks_per_vein = 32
+		#Should aragonit blocks be generated
+		generate_aragonit_sources = true
+		#Amount of max aragonit sources generated per chunk
+		#Range: 1 ~ 64
+		aragonit_sources_per_chunk = 2
+
+	[World.monzonite]
+		#Amount of monzonite blocks generated per vein (source)
+		#Range: 1 ~ 64
+		monzonite_blocks_per_vein = 32
+		#Amount of max monzonite sources generated per chunk
+		#Range: 1 ~ 64
+		monzonite_sources_per_chunk = 2
+		#Should monzonite blocks be generated
+		generate_monzonite_sources = true
+
+	[World.gabbro]
+		#Should gabbro blocks be generated
+		generate_gabbro_sources = true
+		#Amount of gabbro blocks generated per vein (source)
+		#Range: 1 ~ 64
+		gabbro_blocks_per_vein = 32
+		#Amount of max gabbro sources generated per chunk
+		#Range: 1 ~ 64
+		gabbro_sources_per_chunk = 2
+
