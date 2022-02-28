@@ -16,7 +16,7 @@ jobs:
         uses: thedoctor0/zip-release@master
         with:
           type: "zip"
-          filename: "Airendothal.zip"
+          filename: "aMyriadMultitudes.zip"
           exclusions: "*.git* /*node_modules/* .editorconfig .github"
       - name: Upload Release
         uses: ncipollo/release-action@main
@@ -24,5 +24,5 @@ jobs:
           commit: master
           #tag: ${{ steps.time.outputs.time }} This will output as date
           tag: v.0.${{ github.run_number }}
-          artifacts: "amyriadmultitudes.zip"
+          artifacts: "aMyriadMultitudes.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
