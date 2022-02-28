@@ -21,7 +21,7 @@ jobs:
       - name: Upload Release
         uses: ncipollo/release-action@main
         with:
-          commit: main
+          commit: master
           #tag: ${{ steps.time.outputs.time }} This will output as date
           tag: v.0.${{ github.run_number }}
           artifacts: "amyriadmultitudes.zip"
