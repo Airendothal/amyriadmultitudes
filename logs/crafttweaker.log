@@ -1,10 +1,10 @@
-[07:03:44.894][INFO]: Starting building internal Registries
-[07:03:45.808][INFO]: The following mods have explicit CraftTweaker support:
-[07:03:45.811][INFO]: 'aquaculture' at version '1.18.1-2.3.3'
-[07:03:45.812][INFO]: 'crafttweaker' at version '9.0.72'
-[07:03:45.812][INFO]: 'jeitweaker' at version '3.0.0.4'
-[07:03:45.812][INFO]: 'mysticalagriculture' at version '5.0.3'
-[07:03:46.386][INFO]: BEP 'itemgroup' has a validator but no BEP method
-[07:03:46.523][INFO]: Completed building internal Registries
-[07:04:05.781][INFO]: Started loading Scripts for Loader 'initialize'!
-[07:04:06.661][INFO]: Finished loading Scripts!
+[08:34:45.119][INFO]: Starting building internal Registries
+[08:34:45.780][INFO]: The following mods have explicit CraftTweaker support:
+[08:34:45.782][INFO]: 'aquaculture' at version '1.18.1-2.3.3'
+[08:34:45.782][INFO]: 'crafttweaker' at version '9.0.72'
+[08:34:45.782][INFO]: 'jeitweaker' at version '3.0.0.4'
+[08:34:45.782][INFO]: 'mysticalagriculture' at version '5.0.3'
+[08:34:46.176][INFO]: BEP 'itemgroup' has a validator but no BEP method
+[08:34:46.269][INFO]: Completed building internal Registries
+[08:35:05.595][INFO]: Started loading Scripts for Loader 'initialize'!
+[08:35:06.620][INFO]: Finished loading Scripts!
